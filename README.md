@@ -1,6 +1,6 @@
-### Hi there, I'm Anton - aka [toxuh](http://antonzakharov.me/) 👋
+## Hi there, I'm Anton - aka [toxuh](http://antonzakharov.me/) 👋
 
-## I'm a FullStack Developer, Traveller and kind of Musician!
+### I'm a FullStack Developer, Traveller and kind of Musician!
 - ⚡ I’m looking to collaborate with other content creators
 
 ### Connect with me:
