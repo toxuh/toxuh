@@ -1,4 +1,5 @@
 ## Hi there, I'm Anton - aka [toxuh](http://antonzakharov.me/) 👋
+<img align="left" alt="Codewars" src="https://www.codewars.com/users/toxuh/badges/small" />
 
 ### I'm a FullStack Developer, Traveller and kind of Musician!
 - ⚡ I’m looking to collaborate with other content creators
